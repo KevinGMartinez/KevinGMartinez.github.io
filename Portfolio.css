@@ -14,4 +14,49 @@ h1{
   background-color:#FF9696;
   text-align:center;
 }
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Mansalva&display=swap');
+
+body{
+  background-color:#89cff0;
+  text-align: center;
+  font-family: 'Mansalva', cursive, 'Arial';
+}
+
+
+p { 
+  color:#5050ff;
+  text-align:left;
+  font-family: 'Mansalva', cursive,'Arial';
+}
+
+h1{
+  background-color:#FF9696;
+  text-align:center
+  font-family: 'Mansalva', cursive, 'Arial';
+}
+
+
+
+a {
+  color:#fb9fa4;
+}
+
+a:hover {
+  color:black;
+}
+
+a:visited {
+  color:#967bb6;
+}
+
+.color-panel {
+   color: red; 
+  }
+
 </style>
+
+Currently struggling with Responsive Frameworks, I've tried both Materialize and Skeleton and they for some reason do not work with my page.
+Any help would be great!
