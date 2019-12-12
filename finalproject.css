@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+
+
+body{
+	text-align: center;
+	font-family:'Playfair Display', serif;
+	float:center;
+}
+
+hr{
+	width: 50px
+	height: 20px
+	color: solid black 60px;
+}
+
+.site-title{
+	
+	font-family: 'Fira Sans', sans-serif;
+	color:#33B6FF;
+	text-align: center;
+}
+
+.category-tag {
+	color:#00adef;
+
+}
+
+.picture_1 {
+	margin: 20px;
+}
+
+.picture_2 {
+	margin: 20px;
+}
+
+.picture_3 {
+	margin: 20px;
+
+#hero{
+	width:100vw;
+	height:100vh;
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	background-image: url(https://www.facebook.com/sharer/sharer.php?u=https://hyperallergic.com/531769/parisian-strikes-bring-citys-art-scene-to-a-halt/&display=popup&ref=plugin&src=share_button);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+
+}
+
+.col s6{
+	position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    -webkit-transition: .3s ease-out;
+    transition: .3s ease-out;
+}
+
+
+
+
+
+a:link {
+	color: blue;
+	font-size: 12;
+}
+
+a:visited {
+	color: purple;
+	font-size: 12;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: blue;
+	font-size: 12;
+}
+
+a:active {
+	text-decoration: underline;
+	color: orange;
+	font-size: 12;
+}
